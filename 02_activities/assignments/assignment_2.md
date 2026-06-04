@@ -21,10 +21,10 @@
       ```
 
 
-- For each visualization (bad):  https://datavizproject.com/wp-content/uploads/examples/Sk%C3%A6rmbillede-2017-02-23-kl.-16.36.42.png
+ For each visualization (bad):  https://datavizproject.com/wp-content/uploads/examples/Sk%C3%A6rmbillede-2017-02-23-kl.-16.36.42.png
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-     The image does not mention any source or reference. Because of this, the visualization has a trust issue. And the people in the visualization are targeting whether the global population or a certain country cannot be reached. Also, the year 2083 has no solid explanation for why the author chose it. The figure, 1in3, is too close to each other, so it gives an uncomfortable feeling to watch.
+      The image does not mention any source or reference. Because of this, the visualization has a trust issue. And the people in the visualization are targeting whether the global population or a certain country cannot be reached. Also, the year 2083 has no solid explanation for why the author chose it. The figure, 1in3, is too close to each other, so it gives an uncomfortable feeling to watch.
       ```
     - How could this data visualization have been improved?  
       ```
