@@ -7,23 +7,46 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
+Visualization 1 : viz1_timeseries
     > What software did you use to create your data visualization?
-
+Python
     > Who is your intended audience? 
-    
+Policy makers who are interested in Redemption ticket counts of the Toronto Island Ferry Ticket
     > What information or message are you trying to convey with your visualization? 
-    
+Showing the actual users of the ferry for sustainable management. To show this, to place the workers for seamless coustomer convinience.
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+Showing all the data, no data elimination.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+Dataset is fixed. And the code doesn't have random number/seed.
     > How did you ensure that your data visualization is accessible?  
-    
+I've checked myself
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+Some large tourism company with large number of tourist at once.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+I looked up the original dataset first and choosed which data could go for x and y. But my original dataset only had 3 columns, so there's no necessary to exclude data.
     > What ‘underwater labour’ contributed to your final data visualization product?
+I wanted to show the date&time on the x axis but it was too many. So I tried hard but didn't figured out thi part. This could be underwater labour.
+
+
+Visualization 2 : viz2_heatmap
+    > What software did you use to create your data visualization?
+Python
+    > Who is your intended audience? 
+Policy makers who are interested in Redemption ticket counts of the Toronto Island Ferry Ticket
+    > What information or message are you trying to convey with your visualization? 
+Showing the actual users of the ferry for sustainable management. To show this, to place the workers for seamless coustomer convinience.
+    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+Showing all the data, no data elimination.
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+Dataset is fixed. And the code doesn't have random number/seed.
+    > How did you ensure that your data visualization is accessible?  
+I've checked myself
+    > Who are the individuals and communities who might be impacted by your visualization?  
+Some large tourism company with large number of tourist at once.
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+I looked up the original dataset first and choosed which data could go for x and y. But my original dataset only had 3 columns, so there's no necessary to exclude data.
+    > What ‘underwater labour’ contributed to your final data visualization product?
+To cleary visualize the data, I tried different color and different style of the visiualization many times. This could be underwater labour.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
